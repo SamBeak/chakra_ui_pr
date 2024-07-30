@@ -16,6 +16,7 @@ export default function Root() {
             h="100vh"
             p="1rem"
             gap="1rem"
+            w="100%"
         >
             <HeaderComponent />
             <NavComponent />
